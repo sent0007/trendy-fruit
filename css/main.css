@@ -11,6 +11,8 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+
+  font-family: Comfortaa, sans-serif;
 }
 
 *, *::before, *::after {
@@ -41,6 +43,6 @@ body {
   background-color: #e86033;
 }
 
-.persimmon {
+.persimmon h2 {
   font-family: "Open Sans", sans-serif;
 }
